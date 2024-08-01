@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ganeshsyn/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ganeshsyn/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -38,9 +39,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ganeshsyn/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ganeshsyn/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ganeshsyn/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ganeshsyn/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
