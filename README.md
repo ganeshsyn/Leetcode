@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ganeshsyn/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ganeshsyn/Leetcode/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/ganeshsyn/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ganeshsyn/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ganeshsyn/Leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/ganeshsyn/Leetcode/tree/master/0812-rotate-string) |
+| [2032-largest-odd-number-in-string](https://github.com/ganeshsyn/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ganeshsyn/Leetcode/tree/master/0812-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/ganeshsyn/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
