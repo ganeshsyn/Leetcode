@@ -17,7 +17,7 @@ class Solution {
                 return m;
             }
             // check for increasing part 
-            else if(nums[m]>nums[m-1]){
+            else if(nums[m]>nums[m-1] && nums[m]<nums[m+1]){
                   s=m+1;
             }
             else{
