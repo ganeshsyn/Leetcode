@@ -58,8 +58,8 @@ class MyQueue {
 	   if(rear==arr.length-1){
 	       return;
 	   }
-	   arr[rear]=x;
-	   rear++;
+	   arr[rear++]=x;
+	   
 	} 
 
     //Function to pop an element from queue and return that element.
@@ -68,8 +68,8 @@ class MyQueue {
 		if(front==rear){
 		    return -1;
 		}
-		int ele=arr[front];
-		front++;
+		int ele=arr[front++];
+		
 		if(front==rear){
 		    front=0;
 		    rear=0;
