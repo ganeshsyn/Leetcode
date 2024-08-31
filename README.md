@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ganeshsyn/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ganeshsyn/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ganeshsyn/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/ganeshsyn/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ganeshsyn/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ganeshsyn/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ganeshsyn/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ganeshsyn/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ganeshsyn/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ganeshsyn/Leetcode/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/ganeshsyn/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -136,5 +138,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ganeshsyn/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ganeshsyn/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
