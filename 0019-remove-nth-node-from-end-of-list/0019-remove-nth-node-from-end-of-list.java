@@ -23,9 +23,6 @@ class Solution {
             ListNode newHead=head.next;
             return newHead;
         }
-        // if(n==length){
-        //     return head;
-        // }
         temp=head;
         for(int i=1;i<length-n;i++){
             temp=temp.next;
