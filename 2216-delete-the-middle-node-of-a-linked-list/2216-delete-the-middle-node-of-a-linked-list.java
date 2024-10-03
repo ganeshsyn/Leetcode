@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
-        if(head==null){
+        if(head==null || head.next==null){
             return null;
         }
         ListNode temp=head;
@@ -19,9 +19,7 @@ class Solution {
             count++;
             temp=temp.next;
         }
-        if(count==1){
-            return null;
-        }
+        
         ListNode p=head;
         ListNode q=head.next;
         for(int i=1;i<count/2;i++){
